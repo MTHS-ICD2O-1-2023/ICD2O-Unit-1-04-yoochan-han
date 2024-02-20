@@ -2,3 +2,9 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+h1 {
+  background-color: black;
+  color: green;
+  font-style: italic;
+  font-size: 52px;
+}
