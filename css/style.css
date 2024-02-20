@@ -8,3 +8,7 @@ h1 {
   font-style: inherit;
   font-size: 52px;
 }
+p {
+  background-color: aliceblue;
+  background-repeat: round;
+  }
