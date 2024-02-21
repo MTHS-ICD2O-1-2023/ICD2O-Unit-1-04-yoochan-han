@@ -9,6 +9,7 @@ h1 {
   font-size: 52px;
 }
 p {
-  background-color: aliceblue;
-  background-repeat: round;
-  }
+  color: aliceblue;
+  font-size: small;
+  text-align: right;
+}
