@@ -3,14 +3,14 @@
 * This file contains the CSS for index.html
 */
 .myheader {
-  background-color: black;
-  color: green;
+  background-color: rgb(106, 145, 243);
+  color: rgb(245, 116, 65);
   font-style: inherit;
-  font-size: 52px;
+  font-size: 72px;
 }
 p {
   color: rgb(57, 154, 239);
-  font-size: small;
+  font-size: medium;
   text-align: right;
 }
 .para {
