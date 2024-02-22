@@ -2,14 +2,17 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
-h1 {
+#myheader {
   background-color: black;
   color: green;
   font-style: inherit;
   font-size: 52px;
 }
 p {
-  color: aliceblue;
+  color: rgb(57, 154, 239);
   font-size: small;
   text-align: right;
+}
+#para {
+  transform: rotateX('60');
 }
