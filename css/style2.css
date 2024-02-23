@@ -21,5 +21,11 @@ p {
   font-size: 37px;
   font-style: unset;
   text-align: left;
-
+}
+.pre {
+  color:gold;
+  font-style: italic;
+}
+.nor {
+  color: rgb(42, 132, 132);
 }
