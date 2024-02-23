@@ -11,7 +11,10 @@ body {
   font-size: 72px;
 }
 
-
+table {
+  text-align: left;
+  size:35cm;
+}
 
 p {
   color: rgb(57, 154, 239);
