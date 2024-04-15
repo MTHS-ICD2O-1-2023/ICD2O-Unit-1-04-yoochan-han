@@ -8,7 +8,7 @@ body {
 }
 
 .myheader {
-  position: relative;
+  position: absolute;
   top: 0;
   width: 100%;
   text-align: center;
