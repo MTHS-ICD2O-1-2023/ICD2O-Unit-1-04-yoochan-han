@@ -8,8 +8,8 @@ body {
 }
 
 .myheader {
-  position: absolute;
   top: 0;
+  position: absolute;
   width: 100%;
   text-align: center;
   background-color: rgb(106, 145, 243);
