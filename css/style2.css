@@ -1,6 +1,6 @@
 body {
   color: black;
-  background-color :rgb(255, 255, 255);
+  background-color :rgb(165, 165, 165);
 }
 
 .myheader {
@@ -16,7 +16,7 @@ body {
 
 .mybody {
   position: relative;
-  top: 300px;
+  top: 30%;
 }
 
 table {
