@@ -1,9 +1,5 @@
 body {
   color: black;
-}
-
-.mybody {
-  top: 300px;
   background-color :rgb(255, 255, 255);
 }
 
@@ -16,6 +12,11 @@ body {
   color: rgb(245, 116, 65);
   font-style: inherit;
   font-size: 32px;
+}
+
+.mybody {
+  position: relative;
+  top: 300px;
 }
 
 table {
