@@ -1,6 +1,7 @@
 body {
-  background-color :rgb(216, 73, 106);
+  background-color :rgb(255, 255, 255);
 }
+
 .myheader {
   position: absolute;
   top: 0;
@@ -9,7 +10,7 @@ body {
   background-color: rgb(106, 145, 243);
   color: rgb(245, 116, 65);
   font-style: inherit;
-  font-size: 72px;
+  font-size: 32px;
 }
 
 table {
@@ -20,7 +21,7 @@ table {
 }
 
 p {
-  color: rgb(57, 154, 239);
+  color: rgb(0, 0, 0);
 }
 
 .para {
@@ -28,10 +29,14 @@ p {
   font-style: unset;
   text-align: left;
 }
+
 .pre {
   color:gold;
   font-style: italic;
+  font-size: large;
 }
+
 .nor {
   color: rgb(42, 132, 132);
+  font-size: large;
 }
