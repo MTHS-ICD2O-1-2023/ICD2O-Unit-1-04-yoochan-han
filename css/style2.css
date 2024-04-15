@@ -2,6 +2,7 @@ body {
   background-color :rgb(216, 73, 106);
 }
 .myheader {
+  position: absolute;
   top: 0;
   width: 100%;
   text-align: center;
