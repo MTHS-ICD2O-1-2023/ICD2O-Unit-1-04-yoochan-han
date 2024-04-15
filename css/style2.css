@@ -1,7 +1,9 @@
 body {
-  background-color :rgb(228, 149, 122);
+  background-color :rgb(216, 73, 106);
 }
 .myheader {
+  top: 0;
+  width: 100%;
   text-align: center;
   background-color: rgb(106, 145, 243);
   color: rgb(245, 116, 65);
