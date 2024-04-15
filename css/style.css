@@ -4,22 +4,30 @@
 */
 body {
   background-color: black;
-
 }
 
 .myheader {
-  text-align: center  ;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
   background-color: rgb(106, 145, 243);
   color: rgb(245, 116, 65);
   font-style: inherit;
-  font-size: 72px;
+  font-size: 32px;
 }
-
-
 
 p {
   color: rgb(57, 154, 239);
 }
+
+.right-img {
+  position: relative;
+  width: 900px;
+  height: 600px;
+  top: 300px;
+}
+
 .para {
   font-size: 37px;
   font-style: unset;
